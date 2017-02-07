@@ -71,10 +71,13 @@ section.module.index-parallax {
 
 section.module.about-parallax,
 section.module.gallery-parallax,
-section.module.rush-parallax,
 section.module.contact-parallax {
 	margin-top: 80px;
 	padding: 100px 0;
+}
+
+section.module.rush-parallax {
+	padding: 72px 0;
 }
 
 section.module.content {
